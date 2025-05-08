@@ -1,4 +1,5 @@
 public abstract class Animale {
+
     protected void dormi() {
         System.out.println("Zzz");
     }
@@ -6,4 +7,5 @@ public abstract class Animale {
     protected abstract void verso();
 
     protected abstract void mangia();
+    
 }
